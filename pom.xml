@@ -25,14 +25,7 @@
                     <adminurl>t3://127.0.0.1:7001</adminurl>
                     <user>weblogic</user>
                     <password>welcome123</password>
-			<distributionManagement>
-   <repository>
-     <id>github</id>
-     <name>GitHub OWNER Apache Maven Packages</name>
-     <url>https://github.com/jagadeeshmadhu/trucks</url>
-   </repository>
-</distributionManagement>
-                    <source>https://github.com/jagadeeshmadhu/trucks/tree/master/target/trucks.war</source>
+                    <source>E:\mavenbuild\trucks\target\trucks.war</source>
                     <targets>MS1</targets>
                     <verbose>true</verbose>
                     <name>trucks</name>
