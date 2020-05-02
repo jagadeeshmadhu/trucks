@@ -25,7 +25,7 @@
                     <adminurl>t3://127.0.0.1:7001</adminurl>
                     <user>weblogic</user>
                     <password>welcome123</password>
-                    <source>E:\mavenbuild\trucks\target\trucks.war</source>
+                    <source>https://github.com/jagadeeshmadhu/trucks/tree/master/target/trucks.war</source>
                     <targets>MS1</targets>
                     <verbose>true</verbose>
                     <name>trucks</name>
