@@ -25,8 +25,8 @@
                     <adminurl>t3://127.0.0.1:7001</adminurl>
                     <user>weblogic</user>
                     <password>welcome123</password>
-                    <source>E:\mavenbuild\trucks\target\trucks.war</source>
-                    <targets>MS1</targets>
+                    <source>C:\Users\Administrator.FSSCHNL13776\Desktop\devops tools\jenkins\workspace\Warmaventoweblogic_plugin\target\trucks.war</source>
+                    <targets>AdminServer</targets>
                     <verbose>true</verbose>
                     <name>trucks</name>
 					<path>/trucks</path>
